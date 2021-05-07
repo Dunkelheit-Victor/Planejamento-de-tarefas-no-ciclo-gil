@@ -18,8 +18,8 @@
 
 **SPRINT 3 (18/05 - 24/05)**
 - elaborar front-end (18/05-19/05)
-- teste, correção e validação do front-end (20/05)
-- adicionar todas biblioteca de NLP e expressões a serem reconhecidas pelo BOT (21/05 - 24/05)
+- adicionar todas biblioteca de NLP e expressões a serem reconhecidas pelo BOT(20/05 - 21/05)
+- teste, correção e validação do front-end (24/05)
 
 **SPRINT 4 (25/05 - 31/05)**
 - Começar checklist de toda etapas (25/05)
